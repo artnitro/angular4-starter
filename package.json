@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": " url de Github"
+    "url": "https://github.com/artnitro/angular4-starter.git"
   },
   "keywords": [
     "Express",
@@ -20,7 +20,7 @@
   ],
   "author": "artnitro - Arturo Jaldo Suarez",
   "license": "MIT",
-  "homepage": "url de Github",
+  "homepage": "https://github.com/artnitro/angular4-starter.git",
   "dependencies": {
     "@angular/common": "~4.0.1",
     "@angular/compiler": "~4.0.1",
